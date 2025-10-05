@@ -1,4 +1,5 @@
 Overview
+
 This project is a CLI-based trading bot for Binance USDT-M Futures.
 It supports multiple order types, input validation, and structured logging.
 All orders are executed in simulation mode for safe testing.
