@@ -12,6 +12,7 @@ Market Orders – place_market_order(symbol, side, quantity)
 Limit Orders – place_limit_order(symbol, side, quantity, price)
 Validates inputs: symbol, side, quantity, price
 Logs all actions to bot.log
+
 Advanced Orders
 
 Stop-Limit Orders – place_stop_limit(symbol, side, quantity, stop_price, limit_price)
@@ -22,6 +23,8 @@ All advanced orders are simulated and logged.
 
 
 Installation
+
+
 Clone the repo or extract ZIP:
 git clone <your_repo_url>
 cd sumedha-binance-bot
